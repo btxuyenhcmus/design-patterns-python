@@ -1,1 +1,1 @@
-from .models import Singleton
+from .model import Singleton
